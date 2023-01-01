@@ -9,4 +9,5 @@ import com.polemon.icommunication.models.Event;
 public interface ProducerSync {
 
     Event send(Event event);
+
 }
